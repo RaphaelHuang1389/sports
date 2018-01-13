@@ -1,8 +1,8 @@
-# Natural Language Processing
+# Sports Predictions
 
 ## Dartmouth Machine Learning Club
 
-This repository is for the NLP Section.
+This repository is for the Sports Statistics Prediction Section.
 
 ## Getting Started
 
@@ -14,7 +14,6 @@ Installing Python 3 should also install [pip](https://pip.pypa.io/en/stable/), w
 
 ```
 pip install -U scikit-learn
-pip install -U nltk
 ```
 
 ### Git
@@ -80,5 +79,3 @@ class MyClass:
 - [Pycharm](https://www.jetbrains.com/pycharm/download/)
 
 - [SciKit-Learn Python Library](http://scikit-learn.org/stable/)
-
-- [NLTK](http://http://www.nltk.org/)
