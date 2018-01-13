@@ -21,9 +21,9 @@ We use git to "push" and "pull" code from GitHub. It should already be installed
 From there you need to "clone" the repository from Github. Type the following:
 
 ```
-git clone https://github.com/DartmouthMachineLearning/nlp.git
-cd nlp/
-git remote add origin https://github.com/DartmouthMachineLearning/nlp.git
+git clone https://github.com/DartmouthMachineLearning/sports.git
+cd sports/
+git remote add origin https://github.com/DartmouthMachineLearning/sports.git
 git pull
 ```
 
